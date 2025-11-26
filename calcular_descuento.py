@@ -1,3 +1,12 @@
+"""
+Módulo: calcular_descuento
+Autor: (leider maza)
+
+
+Descripción:
+    Contiene una función que calcula un precio final aplicando un descuento.
+    Sigue las normas de estilo de PEP 8 para mantener claridad y legibilidad.
+"""
 def calcular_descuento(precio, porcentaje_descuento):
     """
      Docstring obligatorio según PEP 8.
